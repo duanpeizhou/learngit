@@ -13,3 +13,5 @@ git reset HEAD filename
 
 git reflog
 
+讲工作区的文件恢复到暂缓的版本 暂缓去没有 则恢复到最新版本
+git checkout -- filename 
