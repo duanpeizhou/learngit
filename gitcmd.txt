@@ -15,3 +15,13 @@ git reflog
 
 讲工作区的文件恢复到暂缓的版本 暂缓去没有 则恢复到最新版本
 git checkout -- filename 
+
+ssh-keygen -t rsa -C "duanpeizhou@163.com"
+
+将本地仓库推送到远程仓库
+git remote add origin git@github.com:duanpeizhou/learngit.git
+
+第一次远程仓库
+git push -u origin master
+
+
