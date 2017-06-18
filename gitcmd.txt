@@ -33,4 +33,5 @@ git branch branchname
 切换分支
 git checkout branchname
 
-
+删除分支
+git branch -d branchname
