@@ -35,3 +35,7 @@ git checkout branchname
 
 删除分支
 git branch -d branchname
+
+分支合并图
+git log --graph
+
