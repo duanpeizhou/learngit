@@ -24,4 +24,13 @@ git remote add origin git@github.com:duanpeizhou/learngit.git
 第一次远程仓库
 git push -u origin master
 
+创建并切换到分支
+git checkout -b branchname
+
+创建分支
+git branch branchname
+
+切换分支
+git checkout branchname
+
 
