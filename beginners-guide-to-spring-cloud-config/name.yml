@@ -1,7 +1,7 @@
 server:
-  port: 7070
+  port: 7071
 
-name: duanpeizhou
+name: duanpeizhou-node1
 names:
   - duanpeizhou
   - peizhou 
