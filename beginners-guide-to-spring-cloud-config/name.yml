@@ -4,7 +4,7 @@ server:
 name: duanpeizhou-node1
 names:
   - duanpeizhou
-  - peizhou 
+  - peizhou-node1 
   - Spencer
   - Jon
   - Marcin
