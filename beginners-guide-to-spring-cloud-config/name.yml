@@ -1,7 +1,7 @@
 server:
   port: 7070
 
-name: duanpeizhou-dev1-profiles-node2
+name: duanpeizhou
 names:
   - duanpeizhou
   - peizhou 
